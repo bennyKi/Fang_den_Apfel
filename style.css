@@ -1,0 +1,35 @@
+.canvas {
+    background-image: url("Baum.png");
+    border: 5px solid grey;
+    border-radius: 15px;
+}
+nav {
+    background: #c2cfe4;
+    height: 60px;
+    font-size: 40px;
+}
+.span{
+    border: 0px;
+    background: none;
+    font-size: 40px;
+}
+.variable-name {
+    background: rgb(241, 240, 240);
+    border-radius: 40px;
+    padding: 15%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+    height: auto;
+    width: 200px;
+}
+.variable-value {
+    background: rgba(151, 221, 71, 0.678);
+    padding: 15%;
+    border-radius: 50%;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: normal;
+    height: 28px;
+    width: auto;
+}
